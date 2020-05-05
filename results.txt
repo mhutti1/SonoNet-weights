@@ -1,0 +1,136 @@
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 99.63
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 109.76
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 99.18
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 99.63
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 99.81
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 98.94
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 98.95
+
+Predictions using SonoNet32:
+ - 3VV (conf: 0.99, true label: 3VV)
+ - 4CH (conf: 1.00, true label: 4CH)
+ - Abdominal (conf: 0.92, true label: ABDOMINAL)
+ - Brain (Cb.) (conf: 1.00, true label: BRAIN-CB)
+ - Brain (Tv.) (conf: 1.00, true label: BRAIN-TV)
+ - Femur (conf: 1.00, true label: FEMUR)
+ - Kidneys (conf: 1.00, true label: KIDNEYS)
+ - Lips (conf: 0.78, true label: LIPS)
+ - LVOT (conf: 1.00, true label: LVOT)
+ - Profile (conf: 1.00, true label: PROFILE)
+ - RVOT (conf: 1.00, true label: RVOT)
+ - Spine (cor.) (conf: 1.00, true label: SPINE-CORONAL)
+ - Spine (sag.)  (conf: 1.00, true label: SPINE-SAGITTAL)
+total time: 0
+Average FPS: 99.71

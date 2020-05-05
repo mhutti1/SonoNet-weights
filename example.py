@@ -133,7 +133,7 @@ if __name__ == "__main__":
                                                       confidence[0],
                                                       true_label)
 
-        if display_images:
-            imshow(np.squeeze(X))
-
+        #if display_images:
+        #imshow(np.squeeze(X))
+    print "total time: %d" % total_time
     print "Average FPS: %.2f" % (float(len(input_list))/total_time)

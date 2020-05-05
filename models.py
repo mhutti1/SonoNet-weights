@@ -8,7 +8,8 @@ Author: Christian Baumgartner (c.f.baumgartner@gmail.com)
 Last Update: 14. March 2017
 """
 
-from lasagne.layers import InputLayer, MaxPool2DLayer, Conv2DLayer, batch_norm
+from lasagne.layers import InputLayer, MaxPool2DLayer, Conv2DLayer
+from lasagne.layers import batch_norm
 from lasagne.layers import GlobalPoolLayer, NonlinearityLayer
 from lasagne.nonlinearities import linear, softmax
 
